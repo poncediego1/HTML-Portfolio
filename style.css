@@ -5,10 +5,16 @@
 
 h1 {
     font-size: 35px;
+    background-color: #2D3250;
+    color: #F6B17A;
+}
+p {
+    color: #F8FAE5;
 }
 
-*{
-    background-color: gainsboro;
+body {
+    background-color: #424769;
+    color: #F8FAE5;
     
 }
 
@@ -20,4 +26,9 @@ h1 {
 .Intro {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    background-color: #2D3250;
+    color:#F8FAE5
 }
