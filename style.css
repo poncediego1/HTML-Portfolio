@@ -32,3 +32,10 @@ h2{
     background-color: #2D3250;
     color:#F8FAE5
 }
+
+.circularPic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
